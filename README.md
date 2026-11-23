@@ -1,0 +1,2 @@
+# LiFi-Data-Transfer-System-Using-LCD-and-Arduino-For-Displaying-Messages
+**Description (under 350 characters):**  LiFi Data Transfer System using Arduino and LCD enables wireless message transmission through visible light communication. The Arduino converts text messages into light signals using an LED transmitter, while a receiver detects and decodes the signals and displays the received messages on an LCD.
